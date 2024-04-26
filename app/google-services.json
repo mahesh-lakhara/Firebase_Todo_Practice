@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791234577583",
+    "project_id": "fir-todolist2-5d626",
+    "storage_bucket": "fir-todolist2-5d626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791234577583:android:39a0cee5fc6b818efe805a",
+        "android_client_info": {
+          "package_name": "com.mmm.firebase_todo_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4zfpKzizvCIU4tFlsdeHAFtTANOeFtcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
